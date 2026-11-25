@@ -1,0 +1,6 @@
+faiss-cpu
+google-genai
+pydantic>=2
+scikit-learn
+sentence-transformers
+streamlit>=1.40
